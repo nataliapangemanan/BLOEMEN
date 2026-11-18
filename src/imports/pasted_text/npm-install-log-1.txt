@@ -1,0 +1,498 @@
+Microsoft Windows [Version 10.0.26200.8655]
+(c) Microsoft Corporation. All rights reserved.
+
+D:\jokianroman\nataneewws>npm install --force
+npm WARN using --force Recommended protections disabled.
+npm WARN ERESOLVE overriding peer dependency
+npm WARN ERESOLVE overriding peer dependency
+npm WARN ERESOLVE overriding peer dependency
+npm WARN While resolving: react-leaflet@5.0.0
+npm WARN Found: react@18.3.1
+npm WARN node_modules/react
+npm WARN   peer react@"^19.0.0" from @react-leaflet/core@3.0.0
+npm WARN   node_modules/react-leaflet/node_modules/@react-leaflet/core
+npm WARN     @react-leaflet/core@"^3.0.0" from react-leaflet@5.0.0
+npm WARN     node_modules/react-leaflet
+npm WARN
+npm WARN Could not resolve dependency:
+npm WARN peer react@"^19.0.0" from react-leaflet@5.0.0
+npm WARN node_modules/react-leaflet
+npm WARN   react-leaflet@"^5.0.0" from the root project
+npm WARN
+npm WARN Conflicting peer dependency: react@19.2.8
+npm WARN node_modules/react
+npm WARN   peer react@"^19.0.0" from react-leaflet@5.0.0
+npm WARN   node_modules/react-leaflet
+npm WARN     react-leaflet@"^5.0.0" from the root project
+npm WARN ERESOLVE overriding peer dependency
+npm WARN While resolving: react-leaflet@5.0.0
+npm WARN Found: react-dom@18.3.1
+npm WARN node_modules/react-dom
+npm WARN   peer react-dom@"^19.0.0" from @react-leaflet/core@3.0.0
+npm WARN   node_modules/react-leaflet/node_modules/@react-leaflet/core
+npm WARN     @react-leaflet/core@"^3.0.0" from react-leaflet@5.0.0
+npm WARN     node_modules/react-leaflet
+npm WARN
+npm WARN Could not resolve dependency:
+npm WARN peer react-dom@"^19.0.0" from react-leaflet@5.0.0
+npm WARN node_modules/react-leaflet
+npm WARN   react-leaflet@"^5.0.0" from the root project
+npm WARN
+npm WARN Conflicting peer dependency: react-dom@19.2.8
+npm WARN node_modules/react-dom
+npm WARN   peer react-dom@"^19.0.0" from react-leaflet@5.0.0
+npm WARN   node_modules/react-leaflet
+npm WARN     react-leaflet@"^5.0.0" from the root project
+npm WARN deprecated tar@6.2.1: Old versions of tar are not supported, and contain widely publicized security vulnerabilities, which have been fixed in the current version. Please update. Support for old versions may be purchased (at exorbitant rates) by contacting i@izs.me
+npm WARN deprecated glob@9.3.5: Old versions of glob are not supported, and contain widely publicized security vulnerabilities, which have been fixed in the current version. Please update. Support for old versions may be purchased (at exorbitant rates) by contacting i@izs.me
+npm WARN deprecated recharts@2.15.2: 1.x and 2.x branches are no longer active. Bump to Recharts v3 to receive latest features and bugfixes. See https://github.com/recharts/recharts/wiki/3.0-migration-guide
+
+added 456 packages, and audited 457 packages in 8m
+
+50 packages are looking for funding
+  run `npm fund` for details
+
+9 vulnerabilities (8 high, 1 critical)
+
+To address all issues possible (including breaking changes), run:
+  npm audit fix --force
+
+Some issues need review, and may require choosing
+a different dependency.
+
+Run `npm audit` for details.
+npm notice
+npm notice New major version of npm available! 10.1.0 -> 12.0.1
+npm notice Changelog: https://github.com/npm/cli/releases/tag/v12.0.1
+npm notice Run npm install -g npm@12.0.1 to update!
+npm notice
+
+D:\jokianroman\nataneewws>npx cap add android
+[error] Could not find installation of TypeScript.
+        To use capacitor.config.ts files, you must install TypeScript in your project, e.g. w/ npm install -D typescript
+
+D:\jokianroman\nataneewws>npm install typescript --force
+npm WARN using --force Recommended protections disabled.
+npm WARN ERESOLVE overriding peer dependency
+npm WARN While resolving: react-leaflet@5.0.0
+npm WARN Found: react@18.3.1
+npm WARN node_modules/react
+npm WARN   peer react@">=16.8.0" from @emotion/react@11.14.0
+npm WARN   node_modules/@emotion/react
+npm WARN     peer @emotion/react@"^11.0.0-rc.0" from @emotion/styled@11.14.1
+npm WARN     node_modules/@emotion/styled
+npm WARN     4 more (@mui/material, @mui/styled-engine, @mui/system, the root project)
+npm WARN   84 more (@emotion/styled, ...)
+npm WARN
+npm WARN Could not resolve dependency:
+npm WARN peer react@"^19.0.0" from react-leaflet@5.0.0
+npm WARN node_modules/react-leaflet
+npm WARN   react-leaflet@"^5.0.0" from the root project
+npm WARN
+npm WARN Conflicting peer dependency: react@19.2.8
+npm WARN node_modules/react
+npm WARN   peer react@"^19.0.0" from react-leaflet@5.0.0
+npm WARN   node_modules/react-leaflet
+npm WARN     react-leaflet@"^5.0.0" from the root project
+npm WARN ERESOLVE overriding peer dependency
+npm WARN While resolving: react-leaflet@5.0.0
+npm WARN Found: react-dom@18.3.1
+npm WARN node_modules/react-dom
+npm WARN   peer react-dom@">=16.8.0" from @floating-ui/react-dom@2.1.9
+npm WARN   node_modules/@floating-ui/react-dom
+npm WARN     @floating-ui/react-dom@"^2.0.0" from @radix-ui/react-popper@1.2.2
+npm WARN     node_modules/@radix-ui/react-popper
+npm WARN   52 more (@mui/material, @radix-ui/react-accordion, ...)
+npm WARN
+npm WARN Could not resolve dependency:
+npm WARN peer react-dom@"^19.0.0" from react-leaflet@5.0.0
+npm WARN node_modules/react-leaflet
+npm WARN   react-leaflet@"^5.0.0" from the root project
+npm WARN
+npm WARN Conflicting peer dependency: react-dom@19.2.8
+npm WARN node_modules/react-dom
+npm WARN   peer react-dom@"^19.0.0" from react-leaflet@5.0.0
+npm WARN   node_modules/react-leaflet
+npm WARN     react-leaflet@"^5.0.0" from the root project
+npm WARN ERESOLVE overriding peer dependency
+npm WARN While resolving: @react-leaflet/core@3.0.0
+npm WARN Found: react@18.3.1
+npm WARN node_modules/react
+npm WARN   peer react@">=16.8.0" from @emotion/react@11.14.0
+npm WARN   node_modules/@emotion/react
+npm WARN     peer @emotion/react@"^11.0.0-rc.0" from @emotion/styled@11.14.1
+npm WARN     node_modules/@emotion/styled
+npm WARN     4 more (@mui/material, @mui/styled-engine, @mui/system, the root project)
+npm WARN   84 more (@emotion/styled, ...)
+npm WARN
+npm WARN Could not resolve dependency:
+npm WARN peer react@"^19.0.0" from @react-leaflet/core@3.0.0
+npm WARN node_modules/react-leaflet/node_modules/@react-leaflet/core
+npm WARN   @react-leaflet/core@"^3.0.0" from react-leaflet@5.0.0
+npm WARN   node_modules/react-leaflet
+npm WARN
+npm WARN Conflicting peer dependency: react@19.2.8
+npm WARN node_modules/react
+npm WARN   peer react@"^19.0.0" from @react-leaflet/core@3.0.0
+npm WARN   node_modules/react-leaflet/node_modules/@react-leaflet/core
+npm WARN     @react-leaflet/core@"^3.0.0" from react-leaflet@5.0.0
+npm WARN     node_modules/react-leaflet
+npm WARN ERESOLVE overriding peer dependency
+npm WARN While resolving: @react-leaflet/core@3.0.0
+npm WARN Found: react-dom@18.3.1
+npm WARN node_modules/react-dom
+npm WARN   peer react-dom@">=16.8.0" from @floating-ui/react-dom@2.1.9
+npm WARN   node_modules/@floating-ui/react-dom
+npm WARN     @floating-ui/react-dom@"^2.0.0" from @radix-ui/react-popper@1.2.2
+npm WARN     node_modules/@radix-ui/react-popper
+npm WARN   52 more (@mui/material, @radix-ui/react-accordion, ...)
+npm WARN
+npm WARN Could not resolve dependency:
+npm WARN peer react-dom@"^19.0.0" from @react-leaflet/core@3.0.0
+npm WARN node_modules/react-leaflet/node_modules/@react-leaflet/core
+npm WARN   @react-leaflet/core@"^3.0.0" from react-leaflet@5.0.0
+npm WARN   node_modules/react-leaflet
+npm WARN
+npm WARN Conflicting peer dependency: react-dom@19.2.8
+npm WARN node_modules/react-dom
+npm WARN   peer react-dom@"^19.0.0" from @react-leaflet/core@3.0.0
+npm WARN   node_modules/react-leaflet/node_modules/@react-leaflet/core
+npm WARN     @react-leaflet/core@"^3.0.0" from react-leaflet@5.0.0
+npm WARN     node_modules/react-leaflet
+
+added 2 packages, and audited 459 packages in 18s
+
+50 packages are looking for funding
+  run `npm fund` for details
+
+9 vulnerabilities (8 high, 1 critical)
+
+To address all issues possible (including breaking changes), run:
+  npm audit fix --force
+
+Some issues need review, and may require choosing
+a different dependency.
+
+Run `npm audit` for details.
+
+D:\jokianroman\nataneewws>npx cap add android
+[error] Parsing capacitor.config.ts failed.
+
+        TypeError: Cannot read properties of undefined (reading 'CommonJS')
+        at require.extensions..ts (D:\jokianroman\nataneewws\node_modules\@capacitor\cli\dist\util\node.js:20:43)
+        at Module.load (node:internal/modules/cjs/loader:1465:32)
+        at Function._load (node:internal/modules/cjs/loader:1282:12)
+        at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+        at wrapModuleLoad (node:internal/modules/cjs/loader:235:24)
+        at Module.require (node:internal/modules/cjs/loader:1487:12)
+        at require (node:internal/modules/helpers:135:16)
+        at requireTS (D:\jokianroman\nataneewws\node_modules\@capacitor\cli\dist\util\node.js:37:15)
+        at loadExtConfigTS (D:\jokianroman\nataneewws\node_modules\@capacitor\cli\dist\config.js:90:54)
+        at loadExtConfig (D:\jokianroman\nataneewws\node_modules\@capacitor\cli\dist\config.js:126:16)
+
+D:\jokianroman\nataneewws>npm audiot fix --force
+npm WARN using --force Recommended protections disabled.
+Unknown command: "audiot"
+
+Did you mean this?
+    npm audit # Run a security audit
+
+To see a list of supported npm commands, run:
+  npm help
+
+D:\jokianroman\nataneewws>npm audit fix --force
+npm WARN using --force Recommended protections disabled.
+npm WARN audit Updating react-router to 7.18.1, which is outside your stated dependency range.
+npm WARN audit Updating vite to 6.4.3, which is outside your stated dependency range.
+npm WARN audit No fix available for xlsx@*
+npm WARN audit Updating @capacitor/cli to 8.4.2, which is a SemVer major change.
+npm WARN ERESOLVE overriding peer dependency
+npm WARN While resolving: react-leaflet@5.0.0
+npm WARN Found: react@18.3.1
+npm WARN node_modules/react
+npm WARN   peer react@">=16.8.0" from @emotion/react@11.14.0
+npm WARN   node_modules/@emotion/react
+npm WARN     peer @emotion/react@"^11.0.0-rc.0" from @emotion/styled@11.14.1
+npm WARN     node_modules/@emotion/styled
+npm WARN     4 more (@mui/material, @mui/styled-engine, @mui/system, the root project)
+npm WARN   84 more (@emotion/styled, ...)
+npm WARN
+npm WARN Could not resolve dependency:
+npm WARN peer react@"^19.0.0" from react-leaflet@5.0.0
+npm WARN node_modules/react-leaflet
+npm WARN   react-leaflet@"^5.0.0" from the root project
+npm WARN
+npm WARN Conflicting peer dependency: react@19.2.8
+npm WARN node_modules/react
+npm WARN   peer react@"^19.0.0" from react-leaflet@5.0.0
+npm WARN   node_modules/react-leaflet
+npm WARN     react-leaflet@"^5.0.0" from the root project
+npm WARN ERESOLVE overriding peer dependency
+npm WARN While resolving: react-leaflet@5.0.0
+npm WARN Found: react-dom@18.3.1
+npm WARN node_modules/react-dom
+npm WARN   peer react-dom@">=16.8.0" from @floating-ui/react-dom@2.1.9
+npm WARN   node_modules/@floating-ui/react-dom
+npm WARN     @floating-ui/react-dom@"^2.0.0" from @radix-ui/react-popper@1.2.2
+npm WARN     node_modules/@radix-ui/react-popper
+npm WARN   52 more (@mui/material, @radix-ui/react-accordion, ...)
+npm WARN
+npm WARN Could not resolve dependency:
+npm WARN peer react-dom@"^19.0.0" from react-leaflet@5.0.0
+npm WARN node_modules/react-leaflet
+npm WARN   react-leaflet@"^5.0.0" from the root project
+npm WARN
+npm WARN Conflicting peer dependency: react-dom@19.2.8
+npm WARN node_modules/react-dom
+npm WARN   peer react-dom@"^19.0.0" from react-leaflet@5.0.0
+npm WARN   node_modules/react-leaflet
+npm WARN     react-leaflet@"^5.0.0" from the root project
+npm WARN ERESOLVE overriding peer dependency
+npm WARN While resolving: @react-leaflet/core@3.0.0
+npm WARN Found: react@18.3.1
+npm WARN node_modules/react
+npm WARN   peer react@">=16.8.0" from @emotion/react@11.14.0
+npm WARN   node_modules/@emotion/react
+npm WARN     peer @emotion/react@"^11.0.0-rc.0" from @emotion/styled@11.14.1
+npm WARN     node_modules/@emotion/styled
+npm WARN     4 more (@mui/material, @mui/styled-engine, @mui/system, the root project)
+npm WARN   84 more (@emotion/styled, ...)
+npm WARN
+npm WARN Could not resolve dependency:
+npm WARN peer react@"^19.0.0" from @react-leaflet/core@3.0.0
+npm WARN node_modules/react-leaflet/node_modules/@react-leaflet/core
+npm WARN   @react-leaflet/core@"^3.0.0" from react-leaflet@5.0.0
+npm WARN   node_modules/react-leaflet
+npm WARN
+npm WARN Conflicting peer dependency: react@19.2.8
+npm WARN node_modules/react
+npm WARN   peer react@"^19.0.0" from @react-leaflet/core@3.0.0
+npm WARN   node_modules/react-leaflet/node_modules/@react-leaflet/core
+npm WARN     @react-leaflet/core@"^3.0.0" from react-leaflet@5.0.0
+npm WARN     node_modules/react-leaflet
+npm WARN ERESOLVE overriding peer dependency
+npm WARN While resolving: @react-leaflet/core@3.0.0
+npm WARN Found: react-dom@18.3.1
+npm WARN node_modules/react-dom
+npm WARN   peer react-dom@">=16.8.0" from @floating-ui/react-dom@2.1.9
+npm WARN   node_modules/@floating-ui/react-dom
+npm WARN     @floating-ui/react-dom@"^2.0.0" from @radix-ui/react-popper@1.2.2
+npm WARN     node_modules/@radix-ui/react-popper
+npm WARN   52 more (@mui/material, @radix-ui/react-accordion, ...)
+npm WARN
+npm WARN Could not resolve dependency:
+npm WARN peer react-dom@"^19.0.0" from @react-leaflet/core@3.0.0
+npm WARN node_modules/react-leaflet/node_modules/@react-leaflet/core
+npm WARN   @react-leaflet/core@"^3.0.0" from react-leaflet@5.0.0
+npm WARN   node_modules/react-leaflet
+npm WARN
+npm WARN Conflicting peer dependency: react-dom@19.2.8
+npm WARN node_modules/react-dom
+npm WARN   peer react-dom@"^19.0.0" from @react-leaflet/core@3.0.0
+npm WARN   node_modules/react-leaflet/node_modules/@react-leaflet/core
+npm WARN     @react-leaflet/core@"^3.0.0" from react-leaflet@5.0.0
+npm WARN     node_modules/react-leaflet
+
+added 2 packages, removed 18 packages, changed 22 packages, and audited 443 packages in 11s
+
+50 packages are looking for funding
+  run `npm fund` for details
+
+# npm audit report
+
+react-router  7.12.0 - 8.2.0
+Severity: high
+React Router: RSC Mode CSRF Bypass Allows Action Execution Before 400 Response - https://github.com/advisories/GHSA-qwww-vcr4-c8h2
+fix available via `npm audit fix --force`
+Will install react-router@8.3.0, which is a breaking change
+node_modules/react-router
+
+xlsx  *
+Severity: high
+Prototype Pollution in sheetJS - https://github.com/advisories/GHSA-4r6h-8v6p-xvw6
+SheetJS Regular Expression Denial of Service (ReDoS) - https://github.com/advisories/GHSA-5pgg-2g8v-p4x9
+No fix available
+node_modules/xlsx
+
+2 high severity vulnerabilities
+
+To address all issues possible (including breaking changes), run:
+  npm audit fix --force
+
+Some issues need review, and may require choosing
+a different dependency.
+
+D:\jokianroman\nataneewws>npx cap add android
+[error] Parsing capacitor.config.ts failed.
+
+        TypeError: Cannot read properties of undefined (reading 'CommonJS')
+        at require.extensions..ts (D:\jokianroman\nataneewws\node_modules\@capacitor\cli\dist\util\node.js:20:43)
+        at Module.load (node:internal/modules/cjs/loader:1465:32)
+        at Function._load (node:internal/modules/cjs/loader:1282:12)
+        at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+        at wrapModuleLoad (node:internal/modules/cjs/loader:235:24)
+        at Module.require (node:internal/modules/cjs/loader:1487:12)
+        at require (node:internal/modules/helpers:135:16)
+        at requireTS (D:\jokianroman\nataneewws\node_modules\@capacitor\cli\dist\util\node.js:37:15)
+        at loadExtConfigTS (D:\jokianroman\nataneewws\node_modules\@capacitor\cli\dist\config.js:90:54)
+        at loadExtConfig (D:\jokianroman\nataneewws\node_modules\@capacitor\cli\dist\config.js:124:16)
+
+D:\jokianroman\nataneewws>del capacitor.config.ts
+
+D:\jokianroman\nataneewws>rmdir /s /q node_modules
+
+D:\jokianroman\nataneewws>del package-lock.json
+
+D:\jokianroman\nataneewws>npm install -g pnpm
+
+changed 1 package in 17s
+
+1 package is looking for funding
+  run `npm fund` for details
+
+D:\jokianroman\nataneewws>npx cap add android
+npm ERR! could not determine executable to run
+
+npm ERR! A complete log of this run can be found in: C:\Users\ACER\AppData\Local\npm-cache\_logs\2026-07-25T14_38_39_077Z-debug-0.log
+
+D:\jokianroman\nataneewws>pnpm install
+[WARN] The "pnpm" field in package.json is no longer read by pnpm. The following keys were ignored: "pnpm.overrides". See https://pnpm.io/settings for the new home of each setting.
+[WARN] deprecated recharts@2.15.2: 1.x and 2.x branches are no longer active. Bump to Recharts v3 to receive latest features and bugfixes. See https://github.com/recharts/recharts/wiki/3.0-migration-guide
+[WARN] Request took 19328ms: https://registry.npmjs.org/typescript
+[WARN] Request took 13789ms: https://registry.npmjs.org/typescript
+[WARN] Tarball download average speed 28 KiB/s (size 31 KiB) is below 50 KiB/s: https://registry.npmjs.org/prompts/-/prompts-2.4.2.tgz (GET)
+[WARN] Tarball download average speed 2 KiB/s (size 6 KiB) is below 50 KiB/s: https://registry.npmjs.org/kleur/-/kleur-4.1.5.tgz (GET)
+[WARN] Tarball download average speed 22 KiB/s (size 104 KiB) is below 50 KiB/s: https://registry.npmjs.org/xml-js/-/xml-js-1.6.11.tgz (GET)
+[WARN] 25 other warnings
+Downloading pdfjs-dist@5.4.296: 9,72 MB/9,72 MB, done
+Downloading @typescript/typescript-win32-x64@7.0.2: 9,77 MB/9,77 MB, done
+Packages: +446
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Downloading @napi-rs/canvas-win32-x64-msvc@0.1.80: 14,76 MB/14,76 MB, done
+Progress: resolved 543, reused 269, downloaded 177, added 446, done
+[WARN] Issues with peer dependencies found. Run "pnpm peers check" to list them.
+
+dependencies:
++ @capacitor/android 6.2.1 (8.4.2 is available)
++ @capacitor/browser 6.0.6 (8.0.4 is available)
++ @capacitor/core 6.2.1 (8.4.2 is available)
++ @capacitor/filesystem 6.0.4 (8.1.2 is available)
++ @capacitor/geolocation 6.1.1 (8.2.0 is available)
++ @capacitor/share 6.0.4 (8.0.1 is available)
++ @emotion/react 11.14.0
++ @emotion/styled 11.14.1
++ @mui/icons-material 7.3.5 (9.1.1 is available)
++ @mui/material 7.3.5 (9.1.2 is available)
++ @popperjs/core 2.11.8
++ @radix-ui/react-accordion 1.2.3 (1.2.14 is available)
++ @radix-ui/react-alert-dialog 1.1.6 (1.1.17 is available)
++ @radix-ui/react-aspect-ratio 1.1.2 (1.1.10 is available)
++ @radix-ui/react-avatar 1.1.3 (1.2.0 is available)
++ @radix-ui/react-checkbox 1.1.4 (1.3.5 is available)
++ @radix-ui/react-collapsible 1.1.3 (1.1.14 is available)
++ @radix-ui/react-context-menu 2.2.6 (2.3.1 is available)
++ @radix-ui/react-dialog 1.1.6 (1.1.17 is available)
++ @radix-ui/react-dropdown-menu 2.1.6 (2.1.18 is available)
++ @radix-ui/react-hover-card 1.1.6 (1.1.17 is available)
++ @radix-ui/react-label 2.1.2 (2.1.10 is available)
++ @radix-ui/react-menubar 1.1.6 (1.1.18 is available)
++ @radix-ui/react-navigation-menu 1.2.5 (1.2.16 is available)
++ @radix-ui/react-popover 1.1.6 (1.1.17 is available)
++ @radix-ui/react-progress 1.1.2 (1.1.10 is available)
++ @radix-ui/react-radio-group 1.2.3 (1.4.1 is available)
++ @radix-ui/react-scroll-area 1.2.3 (1.2.12 is available)
++ @radix-ui/react-select 2.1.6 (2.3.1 is available)
++ @radix-ui/react-separator 1.1.2 (1.1.10 is available)
++ @radix-ui/react-slider 1.2.3 (1.4.1 is available)
++ @radix-ui/react-slot 1.1.2 (1.3.0 is available)
++ @radix-ui/react-switch 1.1.3 (1.3.1 is available)
++ @radix-ui/react-tabs 1.1.3 (1.1.15 is available)
++ @radix-ui/react-toggle 1.1.2 (1.1.12 is available)
++ @radix-ui/react-toggle-group 1.1.2 (1.1.13 is available)
++ @radix-ui/react-tooltip 1.1.8 (1.2.10 is available)
++ @supabase/supabase-js 2.110.8
++ @types/leaflet 1.9.21
++ canvas-confetti 1.9.4
++ class-variance-authority 0.7.1
++ clsx 2.1.1
++ cmdk 1.1.1
++ date-fns 3.6.0 (4.4.0 is available)
++ embla-carousel-react 8.6.0
++ input-otp 1.4.2
++ jspdf 4.2.1
++ jspdf-autotable 5.0.8
++ leaflet 1.9.4
++ lucide-react 0.487.0 (1.21.0 is available)
++ motion 12.23.24 (12.41.0 is available)
++ next-themes 0.4.6
++ react 18.3.1 (19.2.7 is available)
++ react-day-picker 8.10.1 (10.0.1 is available)
++ react-dnd 16.0.1
++ react-dnd-html5-backend 16.0.1
++ react-dom 18.3.1 (19.2.7 is available)
++ react-hook-form 7.55.0 (7.80.0 is available)
++ react-leaflet 5.0.0
++ react-popper 2.3.0
++ react-resizable-panels 2.1.7 (4.11.2 is available)
++ react-responsive-masonry 2.7.1 (2.7.2 is available)
++ react-router 7.18.1 (8.3.0 is available)
++ react-slick 0.31.0
++ recharts 2.15.2 (3.9.0 is available) deprecated
++ sonner 2.0.3 (2.0.7 is available)
++ tailwind-merge 3.2.0 (3.6.0 is available)
++ tw-animate-css 1.3.8 (1.4.0 is available)
++ typescript 7.0.2
++ vaul 1.1.2
++ xlsx 0.18.5
+
+devDependencies:
++ @capacitor/cli 8.4.2
++ @tailwindcss/vite 4.1.12 (4.3.1 is available)
++ @vitejs/plugin-react 4.7.0 (6.0.3 is available)
++ docx 9.7.1
++ pdf-parse 2.4.5
++ tailwindcss 4.1.12 (4.3.1 is available)
++ vite 6.4.3 (8.1.5 is available)
+
+[ERR_PNPM_IGNORED_BUILDS] Ignored build scripts: @tailwindcss/oxide@4.1.12, core-js@3.49.0, esbuild@0.25.12
+
+Run "pnpm approve-builds" to pick which dependencies should be allowed to run scripts.
+
+D:\jokianroman\nataneewws>npx cap add android
+[error] Missing appId for new platform.
+        Please add it in capacitor.config.json or run npx cap init.
+
+D:\jokianroman\nataneewws>npx cap init
+[?] What is the name of your app?
+    This should be a human-friendly app name, like what you'd see in the App Store.
+√ Name ... Bloeman
+[?] What should be the Package ID for your app?
+    Package IDs (aka Bundle ID in iOS and Application ID in Android) are unique identifiers for apps. They must be in
+    reverse domain name notation, generally representing a domain name that you or your company owns.
+√ Package ID ... com.example.app
+√ Creating capacitor.config.ts in D:\jokianroman\nataneewws in 3.08ms
+[success] capacitor.config.ts created!
+
+Next steps:
+https://capacitorjs.com/docs/getting-started#where-to-go-next
+
+D:\jokianroman\nataneewws>npx cap add android
+[error] Parsing capacitor.config.ts failed.
+
+        TypeError: Cannot read properties of undefined (reading 'CommonJS')
+        at require.extensions..ts
+        (D:\jokianroman\nataneewws\node_modules\.pnpm\@capacitor+cli@8.4.2\node_modules\@capacitor\cli\dist\util\node.js:20:43)
+        at Module.load (node:internal/modules/cjs/loader:1465:32)
+        at Function._load (node:internal/modules/cjs/loader:1282:12)
+        at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+        at wrapModuleLoad (node:internal/modules/cjs/loader:235:24)
+        at Module.require (node:internal/modules/cjs/loader:1487:12)
+        at require (node:internal/modules/helpers:135:16)
+        at requireTS
+        (D:\jokianroman\nataneewws\node_modules\.pnpm\@capacitor+cli@8.4.2\node_modules\@capacitor\cli\dist\util\node.js:37:15)
+        at loadExtConfigTS
+        (D:\jokianroman\nataneewws\node_modules\.pnpm\@capacitor+cli@8.4.2\node_modules\@capacitor\cli\dist\config.js:90:54)
+        at loadExtConfig
+        (D:\jokianroman\nataneewws\node_modules\.pnpm\@capacitor+cli@8.4.2\node_modules\@capacitor\cli\dist\config.js:124:16)
+
+D:\jokianroman\nataneewws>

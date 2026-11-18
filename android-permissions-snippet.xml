@@ -1,0 +1,7 @@
+<!-- Tambahkan permission ini ke android/app/src/main/AndroidManifest.xml
+     setelah `npx cap add android` & sebelum `npx cap sync`.
+     Tempatkan di dalam <manifest> tag, sebelum <application>. -->
+<uses-permission android:name="android.permission.INTERNET" />
+<uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+<uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+<uses-feature android:name="android.hardware.location.gps" android:required="false" />
